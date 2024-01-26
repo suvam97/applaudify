@@ -1,8 +1,8 @@
 {
-  "name": "demo6",
+  "name": "applaudify",
   "version": "8.2.0",
   "private": true,
-  "homepage": "/metronic8/react/demo6",
+  "homepage": "/applaudify",
   "dependencies": {
     "@formatjs/intl-pluralrules": "5.2.4",
     "@formatjs/intl-relativetimeformat": "11.2.4",
